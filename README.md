@@ -1,10 +1,20 @@
-# Getting Started with Create React App
+# ReactRouterExample
+
+### Example web app with react router.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Users API
+
+https://jsonplaceholder.typicode.com/users
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs required packages.
 
 ### `npm start`
 
