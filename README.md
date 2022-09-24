@@ -1,6 +1,6 @@
 # ReactRouterExample
 
-### Example web app with react router.
+### Example web app with react router that you can see some users and their informations.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
